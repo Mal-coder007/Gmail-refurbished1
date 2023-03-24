@@ -186,8 +186,7 @@
   .left1 ion-icon, .right1 ion-icon{
       display:inline-block;
       color: #222;
-      font-size: 1.1em;
-      transition: 0.5s;
+
       margin-right: 25px;
   }
   #left1{
